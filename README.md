@@ -14,7 +14,7 @@ Neste projeto você irá replicar as páginas criadas durante o curso [Power Bi 
 
 - [**Dashboard - online**](https://app.powerbi.com/view?r=eyJrIjoiYWMyNThlZDMtODU2OC00M2U5LWIwMzgtZTZhM2RhMzQ5MTQ1IiwidCI6IjlmZjQ5YWNkLTJmNTMtNGJmMS04OTkwLTRjYzY0ZGM4YjljMiJ9)
 
-![Dashboard](Img/dashboard.png)
+![Dashboard](./img/dashboard.png)
 
 <br/>
 
