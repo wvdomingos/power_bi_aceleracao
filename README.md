@@ -10,8 +10,11 @@ Neste projeto você irá replicar as páginas criadas durante o curso [Power Bi 
 > Registro histórico de dados de vendas em 3 supermercados diferentes
 - Dataset: [Kaggle Supermarket Sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
-- EM DESENVOLVIMENTO...
+- **Arquivo:** `reseller_evaluation.pbix`
 
+- [**Dashboard - online**](https://app.powerbi.com/view?r=eyJrIjoiYWMyNThlZDMtODU2OC00M2U5LWIwMzgtZTZhM2RhMzQ5MTQ1IiwidCI6IjlmZjQ5YWNkLTJmNTMtNGJmMS04OTkwLTRjYzY0ZGM4YjljMiJ9)
+
+![Dashboard](Img/dashboard.png)
 
 <br/>
 
